@@ -1,4 +1,5 @@
-# 411 Project: Spotify Roadtrip
+RoadTune: Personalized Playlist Generator
+
 
 Group 5 Members: Jason Kim, Derek Laboy, Carol Riady, Izzy Handkammer, Grace Dai
 
